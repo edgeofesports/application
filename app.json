@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "application",
-    "slug": "application",
+    "name": "edgeofesports",
+    "slug": "edgeofesports",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
-    "scheme": "application",
+    "icon": "./assets/images/icon-2.png",
+    "scheme": "edgeofesports",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
